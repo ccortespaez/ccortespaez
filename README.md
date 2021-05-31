@@ -8,7 +8,7 @@
 - 📫 Me puedes contactar en **cristobal.cortespaez@gmail.com**
 
 ```JS
-const ccortes = {
+const ccortespaez = {
 fullname: "Cristobal Cortés Páez",
 nationality: "Chilean",
 code: "JavaScript",
