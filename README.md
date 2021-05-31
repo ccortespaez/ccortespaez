@@ -14,7 +14,7 @@ nationality: "Chilean",
 code: "JavaScript",
 tools: ["ReactJS", "Git", "GitHub", "AdobeXD", "Visual Studio Code", "NPM", "MYSQL", "XAMPP", "Ubuntu", "Bootstrap", "NodeJS],
 ocupation: "Student",
-age: 21
+age: "21"
 };
 ```
 
