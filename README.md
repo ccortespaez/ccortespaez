@@ -9,7 +9,7 @@
 
 ```JS
 const ccortespaez = {
-fullname: "Cristobal Cortés Páez",
+fullname: "Cristóbal Cortés Páez",
 nationality: "Chilean",
 code: "JavaScript",
 tools: ["ReactJS", "Git", "GitHub", "AdobeXD", "Visual Studio Code", "NPM", "MYSQL", "XAMPP", "Ubuntu", "Bootstrap", "NodeJS],
