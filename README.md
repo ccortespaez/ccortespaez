@@ -15,7 +15,7 @@ code: "JavaScript",
 tools: ["ReactJS", "Git", "GitHub", "AdobeXD", "Visual Studio Code", "NPM", "MYSQL", "XAMPP", "Ubuntu", "Bootstrap", "NodeJS],
 ocupation: "Student",
 age: 21
-} 
+};
 ```
 
 <h3 align="left">Lenguaje y herramientas que más utilizo</h3>
