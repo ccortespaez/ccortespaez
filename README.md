@@ -1,4 +1,4 @@
-<h1 align="center">console.log("Hola Mundo Soy Cristóbal Cortés", 👋)</h1>
+<h1 align="center">console.log("Hola Mundo", 👋)</h1>
 <h3 align="center">Un estudiante de Analista Programador</h3>
 
 - 👨‍💻 Actualmente estoy trabajando en mi proyecto de titulo [MeetingPoint](https://github.com/ccortespaez/MeetingPoint)
