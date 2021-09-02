@@ -1,5 +1,5 @@
 <h1 align="center">console.log("Hola Mundo", 👋)</h1>
-<h3 align="center">Un estudiante de Analista Programador</h3>
+<h3 align="center">Analista Programador</h3>
 
 - 👨‍💻 Actualmente estoy trabajando en mi proyecto de titulo [MeetingPoint](https://github.com/ccortespaez/MeetingPoint)
 
@@ -11,9 +11,8 @@
 const ccortespaez = {
 fullname: "Cristóbal Cortés Páez",
 nationality: "Chilean",
-code: "JavaScript",
-tools: ["ReactJS", "Git", "GitHub", "AdobeXD", "Visual Studio Code", "NPM", "MYSQL", "XAMPP", "Ubuntu", "Bootstrap", "NodeJS"],
-ocupation: "Student",
+code: "JavaScript, ReactJS",
+tools: ["Git", "GitHub", "AdobeXD", "VSCode", "npm", "yarn", "Ubuntu", "Bootstrap"]
 age: "21"
 };
 ```
