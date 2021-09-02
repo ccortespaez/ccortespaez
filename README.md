@@ -1,8 +1,6 @@
 <h1 align="center">console.log("Hola Mundo", 👋)</h1>
 <h3 align="center">Analista Programador</h3>
 
-- 👨‍💻 Actualmente estoy trabajando en mi proyecto de titulo [MeetingPoint](https://github.com/ccortespaez/MeetingPoint)
-
 - 🌱 Actualmente estoy estudiando de manera autodidacta **Javascript, ReactJS y NodeJS**
 
 - 📫 Me puedes contactar en **cristobal.cortespaez@gmail.com**
