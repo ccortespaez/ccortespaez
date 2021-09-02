@@ -1,7 +1,7 @@
 <h1 align="center">console.log("Hola Mundo", 👋)</h1>
 <h3 align="center">Analista Programador</h3>
 
-- 🌱 Actualmente estoy estudiando de manera autodidacta **Javascript, ReactJS y NodeJS**
+- 🌱 Actualmente estoy estudiando de manera autodidacta **Javascript, ReactJS y CSS3 **
 
 - 📫 Me puedes contactar en **cristobal.cortespaez@gmail.com**
 
