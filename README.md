@@ -9,7 +9,7 @@
 const ccortespaez = {
 fullname: "Cristóbal Cortés Páez",
 nationality: "Chilean",
-code: "JavaScript, ReactJS",
+code: "JavaScript, ReactJS", "NodeJS"
 tools: ["Git", "GitHub", "AdobeXD", "VSCode", "npm", "yarn", "Ubuntu", "Bootstrap"]
 age: "21"
 };
